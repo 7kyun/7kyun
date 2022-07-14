@@ -1,7 +1,10 @@
-### Hi there 👋
+### This is Kyǔn Wong
+Welcome to my Github page! I'm Chinese and currently doing front-end development in Guangzhou.
 
-![](https://img.shields.io/badge/blog-ghiblog-blue)  
-![](https://img.shields.io/badge/tool-http--request-yellowgreen)  
+### This my GitHub State and technology stack
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7kyun&layout=compact) 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7kyun&show_icons=true&theme=merko)  
 
 <!--
 **7kyun/7kyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
