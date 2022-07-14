@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[](https://img.shields.io/badge/blog-ghiblog-blue)  
+[](https://img.shields.io/badge/tool-http--request-yellowgreen)  
+
 <!--
 **7kyun/7kyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
