@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a herf="https://github.com/7kyun/ghiblog">![](https://img.shields.io/badge/blog-ghiblog-blue) </a> 
+![](https://img.shields.io/badge/blog-ghiblog-blue)  
 ![](https://img.shields.io/badge/tool-http--request-yellowgreen)  
 
 <!--
